@@ -1,0 +1,2 @@
+python SecureEHR.py
+pause
